@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: aqua;
+  font-size: 30px;
+  font-family: italic;
+  background-image: url(https://www.shutterstock.com/image-photo/07302019-samos-island-greece-view-260nw-1471012781.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: center center;
+}
+.home p {
+  padding-top: 200px;
+  padding-left: 30px;
+}
+.home button {
+  background-color: transparent;
+  border-color: aquamarine;
+  border-style: solid;
+  margin-left: 100px;
+  padding: 10px 20px;
+  color: aquamarine;
+  font-size: 20px;
+}
